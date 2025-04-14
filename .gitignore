@@ -1,5 +1,10 @@
-/md/.obsidian/*
-sources/*
-md/*
+# Ignore Obsidian config
+**/.obsidian/
+
+# Ignore plaintext data
+/sources/
+/md/
 *.json
+
+# Ignore secrets
 .secrets
