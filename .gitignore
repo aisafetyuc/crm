@@ -1,0 +1,5 @@
+/md/.obsidian/*
+sources/*
+md/*
+*.json
+.secrets
